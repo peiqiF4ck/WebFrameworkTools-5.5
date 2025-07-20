@@ -8,9 +8,9 @@
 软件公告频道(软件更新源码等分享知识频道):
 https://t.me/SoftwareNoticeChannel  <br/>
 任何地方如果有源码或者软件的截图都是被人修改过的软件或者代码注意甄别防止后门钓鱼攻击。源码团队内部成员以前有。2022年10月4号修改以后的所有源代码均在作者手中。防止有人滥用以前源码来钓鱼修改后发布带有后门的软件。如果因此使用者的电脑被黑或者造成什么损失与作者本人无关。如果有人打着有工具的源代码先让你们p😂a😂y。就是诈骗，已经有人被骗。被骗的和作者无关别来找我。我一纹$也没收到😂。工具在hw之前发布。source 在hw以后开始选择性开源。其他时间出现的源代码均不是作者本人开源的。被骗或者造成什么损害与作者本人无关！！！别找我别找我!！！ </br>
-软件已经开发完毕。最新版本5.3想购买源码的关注我们的频道!!!</br>
+软件已经开发完毕。最新版本5.5想购买源码的关注我们的频道!!!</br>
 </h2>
- 频道已经开放。软件源代码将在明年也就是2025年出售。发布出去的软件版本是5.3。
+ 频道已经开放。软件源代码将在明年也就是2025年出售。发布出去的软件版本是5.5。
  需要源代码和软件的兄弟们可以自行学习C#编程语言。明年2024年的时候你们学习了一年正好源代码也出售了。一举两得。2025将出售源代码。对源代码感兴趣的请去频道了解相关案例。在源代码出售以后我们的软件将永久对外停止发布。并且发布的10w条软件将在2026年1月份到期。到期以后我们将不在发布软件。你们购买源代码以后可以自己更新exp。
   
   ![冒充频道](https://cdn.jsdelivr.net/gh/peiqiF4ck/mybologimg/img/202307130946063.png)
@@ -112,10 +112,10 @@ https://t.me/SoftwareNoticeChannel  <br/>
  ![menu](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/5.2.png)
  ![menu](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main/blob/main/5.1dll.png)
   ![menu](https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main/blob/main/5.2-ini.png)
- <h1>WebFrameworkTools-5.3-main  For RedTeam </h1>
+ <h1>WebFrameworkTools-5.5-main  For RedTeam </h1>
 <p><a href="https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main"> 
 <alt="Author" src="https://img.shields.io/badge/Author-peiqiF4ck&&%E8%99%9A%E6%84%9A%E5%85%AC%E5%AD%90-red" style="max-width:100%;"></a>
-  <a href="https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main"> <img alt="Version" src="https://img.shields.io/badge/Version-5.3-red" style="max-width:100%;"></a>
+  <a href="https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main"> <img alt="Version" src="https://img.shields.io/badge/Version-5.5-red" style="max-width:100%;"></a>
   <a href="https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main"> <img alt="type" src="https://img.shields.io/badge/type-bin-blueviolet" style="max-width:100%;"></a>
   <a href="https://github.com/peiqiF4ck/WebFrameworkTools-5.1-main"><img alt="Release" src="https://img.shields.io/badge/language-C%23/C++-ff69b4.svg" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer"><img  alt="GitHub Repo stars" src="https://img.shields.io/github/stars/peiqiF4ck/WebFrameworkTools-5.1-main?color=gree" style="max-width:100%;"></a>
@@ -123,6 +123,7 @@ https://t.me/SoftwareNoticeChannel  <br/>
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+   <li>2025-07-20 更新webframeworktools v5.5 增强版 增加webtitle模块  端口扫描  指纹识别  目录扫描 由于某些原因工具将永久停止对外发布。github 将做工具更新记录!!!</li>
     <li>2025-05-29 更新vBulletin Remote Code Execution Vulnerabilities Exploited  远程代码执行漏洞 CVE-2025-48828 CVE-2025-48827截图演示见底部</li>
     <li>2025-04-20 dll生成器 一键生成CVE-2025-3248代码执行exp 并且直接批量实战演示见youtube.</li>
   <li>2025-01-20 软件使用视频教程和文字教程和2024-08-31版本10w条已经发布到博客请去博客下载</li>
@@ -248,10 +249,10 @@ CVE-2024-23692 HFS 远程命令执行<br/>
     <li>2024-03-30  更新 泛微E-Office10 一键getshell exp 另外还更新了几个漏洞下次写github补上 QVD-2024-11354。实战复现文章:https://peiqif4ck.github.io/penetrationtest/2024/03/articles/b8f9d080e95e9930/ </li>
    <li>2024-03-14 更新 AspCms,DedeCms,Ecshop,FCKeditor,FineCms,MacCms,OmWeb,OpenSns,PhpWeb,QiBoCms,SouthDic,Zabbix,致远OA,YiQiCms,Eyoucms,LJcms,phpok,Oklite,ezEIP,phpcms,pageAdmin,Jymusic,BigIp,WordPress,seacms,u163pan,zzzcms,PowerCreatorCms,FHAdmin,YongYouNC,晨光cms,GameDomain,Discuz!,maccms10,phpoa,faka平台,maxcms,pigcms,beecms 等39个cmsexp 后半年不忙了继续补充弹药 </li>
   <li>2024-02-28 更新了wordpress RCE-CVE-2024-25600 此次更新为试水更新。证明群主还在。前半年不更新软件。需要了解软件和源代码的。关注频道。后半年着重内部更新exp!!! 请关注频道和github信息</li>
-  <li>2024-01-19 Webfraneworktools v5.3 beta最新版已经发布。自行寻找下载地址。</li>
-  <li>软件已经开放下载。dll生成器也带上了另外可以自己写插件事例https://github.com/peiqiF4ck/ToolsUserDllplugin 软件见release 软件发布版本为5.1 5.2 和5.3暂未发布避免影响扩大。源代码计划24年年中或者年终出售具体看情况而定也可能提前。出售源码后本人将不在维护公开版本的软件改为内部维护。另外频道已经开启欢迎大家订阅关注软件动态。再次感谢大家对软件的支持。软件如果无法下载,请自行寻找下载地址。作者将不在发布下载地址直到明年hw。期间作者将不在频道件更新软件信息</li>
+  <li>2024-01-19 Webfraneworktools v5.5 beta最新版已经发布。自行寻找下载地址。</li>
+  <li>软件已经开放下载。dll生成器也带上了另外可以自己写插件事例https://github.com/peiqiF4ck/ToolsUserDllplugin 软件见release 软件发布版本为5.1 5.2 和5.5暂未发布避免影响扩大。源代码计划24年年中或者年终出售具体看情况而定也可能提前。出售源码后本人将不在维护公开版本的软件改为内部维护。另外频道已经开启欢迎大家订阅关注软件动态。再次感谢大家对软件的支持。软件如果无法下载,请自行寻找下载地址。作者将不在发布下载地址直到明年hw。期间作者将不在频道件更新软件信息</li>
   <li>2023-12-31 发布5.2 ini自定义配置文件调用任意第三方漏洞利用软件教程 https://peiqif4ck.github.io/securitytools/2024/01/articles/1fee187af88e0843 工具请关注文章具体在文章中发布</li>
-   <li>2023-09-09 版本更新至5.3 修复多处bug增加无回显漏洞探测interactsh 类。加入java 算法转换成C#算法的文件。</li>
+   <li>2023-09-09 版本更新至5.5 修复多处bug增加无回显漏洞探测interactsh 类。加入java 算法转换成C#算法的文件。</li>
     <li>2023-09-01 更新了hw 中漏洞24个分别为用友nc cloud 上传漏洞 一键getshell,汉得SRM tomcat.jsp 文件存在登陆绕过漏洞,深信服 应用交付管理系统 login 远程命令执行漏洞(shell拿不到),网神 SecGate 3600 防火墙 obj_app_upfile 任意文件上传漏洞,用友 移动管理系统 uploadApk.do,HiKVISION 综合安防管理平台 env 信息泄漏漏洞,锐捷 NBR 路由器 fileupload.php 任意文件上传,金盘 微信管理平台 getsysteminfo 未授权访问,网御上网行为管理系统Sql注入,用友 U8 CRM客户关系管理系统 getemaildata.php 任意文件上传漏洞,广联达sql注入,企望制造 ERP comboxstore.action 远程命令执行漏洞,大华 智慧园区综合管理平台 video 任意文件上传漏洞,大华城市安防监控系统平台管理存在任意文件下载漏洞,大华城市安防监控系统平台管理sql注入漏洞,飞企互联 FE业务协作平台 ShowImageServlet 任意文件读取漏洞,Metabase validate 远程命令执行漏洞 CVE-2023-38646(poc),大华 智慧园区综合管理平台 账号密码泄露,fficeweb365 任意文件上传漏洞,致远OA M1Server userTokenService 远程命令执行漏洞,金蝶OA 云星空 CommonFileServer 任意文件读取漏洞,新开普 前置服务管理平台 service.action 远程命令执行漏洞(勉强加上了),明源云 ERP系统 接口管家 ApiUpdate.ashx 任意文件上传漏洞,亿赛通文件上传漏洞。详情看截图2023h漏洞。 2023hw漏洞更新此次更新24个漏洞由于时间或者其他原因部分漏洞没有更新。这个不影响。我们软件新版本5.2功能可以调用任意脚本执行exp 弥补了这个不足。另外已出exp poc 编写教程 https://peiqif4ck.github.io/securitytools/2023/09/articles/2633a9b907f3f584/
 这次更新以后我将不会再更新漏洞。后续我学习完毕以后将专注更新软件。感谢大家对软件的支持 。
     <li>2023-08-21 版本更新到5.2 修复了某editor编辑器上传漏洞的bug。增加第三方程序一键调用批量配置执行。测试结果见下图。后续将写一篇相关的文章来详细介绍这个功能。</li>
