@@ -19,6 +19,7 @@
 <h2>更新日志:</h2>
 <ul>
  <!--更新日志记录软件已经停止更新!!!注意频道已经变为私密。暂时不开放。如果有人冒充导致被骗与作者无关!!!开放日期hw之后或者年底-->
+  <li>2025-07-20 更新 Microsoft share point CVE-2025-53770 一键批量shell模块详情看  </li>
    <li>2025-07-20 更新webframeworktools v5.5 增强版 增加webtitle模块  端口扫描  指纹识别  目录扫描 由于某些原因工具将永久停止对外发布。github 将做工具更新记录!!! </li>
     <li>2025-05-29 更新vBulletin Remote Code Execution Vulnerabilities Exploited  远程代码执行漏洞 CVE-2025-48828 CVE-2025-48827截图演示见底部</li>
     <li>2025-04-20 dll生成器 一键生成CVE-2025-3248代码执行exp 并且直接批量实战演示见youtube.</li>
@@ -438,6 +439,10 @@ oaAll(不知名oa漏洞集合)<br/>
 <!--<h2>注意如果提示软件时间到期可以更改本地时间时间改成软件当前时间加半个月时间之内例如:2021-02-19 那么把本地时间改成2021-02-20-2021-03-06之间的时间就可以打开软件了</h2>-->
 <h2>上图实测效果</h2>
 自定义作者演示
+
+Microsoft share point CVE-2025-53770
+
+![CVE-2025-53770批量getshell](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/CVE-2025-53770.png)<br/>
 
 ![自定义作者演示](https://raw.githubusercontent.com/peiqiF4ck/WebFrameworkTools-5.1-main/main/author.png)<br/>
 
